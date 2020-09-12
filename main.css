@@ -19,7 +19,7 @@
 
         .top-1 h1 {
             color: #ffffff;
-			font-size:60px;
+			font-size:35px;
         }
 
         .top-1 h2 {
@@ -32,7 +32,7 @@
             color: #606060;
         }
 		.top-2 ul{
-		font-size:25px;
+		font-size:20px;
 		display:flex;
 		word-wrap: break-word;
 		justify-content: space-around;
