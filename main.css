@@ -1,0 +1,39 @@
+ * {
+            padding: 0px;
+            margin: 0px;
+			font-family: nunito,arial;
+			
+        }
+
+        #head {
+            width: 100%;
+
+            background-color: #222;
+   
+        }
+
+        .top-1 {
+            text-align: center;
+			padding: 10px;
+        }
+
+        .top-1 h1 {
+            color: #ffffff;
+        }
+
+        .top-1 h2 {
+            color: #ffb84d;
+        }
+
+        .top-2 {
+            padding: 10px;
+            background-color: #e6e5e5;
+            color: #606060;
+        }
+		.top-2 ul{
+		font-size:25px;
+		display:flex;
+		word-wrap: break-word;
+		justify-content: space-around;
+		list-style:none;
+		}
