@@ -6,7 +6,8 @@
 
  #header {
      width: 100%;
-     background-color: #222; //overflow: hidden;
+     background-color: #222;
+     overflow: hidden;
      position: fixed;
      top: 0;
  }
@@ -43,14 +44,13 @@
  #my-app {
      background-image: url("https://images.pexels.com/photos/147465/pexels-photo-147465.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
      background-size: cover;
-     background-positiion: center;
+     background-position: center;
      background-color: black;
      transition: 0.5s ease;
      height: 100vh;
  }
 
  #main {
-     //flex:10;
      height: 100vh;
      width: 100%;
  }
